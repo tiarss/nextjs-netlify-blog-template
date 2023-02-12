@@ -4,13 +4,13 @@
   "site_description": "Next.js blog template for Netlify",
   "site_keywords": [
     {
-      "keyword": "Next.js"
-    },
-    {
       "keyword": "Netlify"
     },
     {
       "keyword": "React"
+    },
+    {
+      "keyword": "Next.js"
     }
   ],
   "posts_per_page": 5,
